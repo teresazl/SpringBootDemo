@@ -1,2 +1,3 @@
-#SpringBoot Demo
+# SpringBoot Demo
 主要内容为学习SpringBoot时的代码笔记
+内容包括Controller、Repository、properties等使用
